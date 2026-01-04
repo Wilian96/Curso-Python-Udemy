@@ -8,5 +8,4 @@ imc = peso / (altura ** 2)
 print(f"{nome} {Sobrenome} tem {altura:.2f} de altura e pesa {peso} quilos.")
 print(f"O IMC de {nome} é {imc:.2f}.")
 
-# Continuando com mais exemplos
 
